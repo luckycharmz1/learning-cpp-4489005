@@ -3,6 +3,7 @@
 // Preprocessor directives, by Eduardo Corpeño 
 
 #include <iostream>
+#include <string>
 
 int main(){
     
